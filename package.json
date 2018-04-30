@@ -1,12 +1,12 @@
 {
   "name": "axios-github-helper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Connect to GitHub API with Axios to retrieve User info.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Michael Allen Smith",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
